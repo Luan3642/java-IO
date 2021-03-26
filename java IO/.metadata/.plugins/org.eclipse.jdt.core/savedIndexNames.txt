@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\luan.magalhaes\Documents\Bradesco programacao\Java\java IO\.metadata\.plugins\org.eclipse.jdt.core
+2951180575.index
+661260841.index
