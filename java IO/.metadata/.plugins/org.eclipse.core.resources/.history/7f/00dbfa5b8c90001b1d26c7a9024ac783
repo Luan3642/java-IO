@@ -1,0 +1,16 @@
+package br.com.alura.java.io.teste;
+
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.OutputStream;
+
+import jdk.internal.org.jline.utils.InputStreamReader;
+
+public class TesteEscrita {
+	public static void main(String[] args) throws IOException {
+		
+		OutputStream fis = new FileOutputStream("lorem.txt");
+		Reader isr = new InputStreamReader(fis);
+		
+	}
+}
