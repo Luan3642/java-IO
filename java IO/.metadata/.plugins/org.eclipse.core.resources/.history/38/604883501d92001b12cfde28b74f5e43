@@ -26,7 +26,6 @@ public class TesteLeitura2 {
 			String valor4 = linhaScanner.next();
 			double valor5 = linhaScanner.nextDouble();
 			
-//			String.format(valor4, args);
 			System.out.println(valor1 + valor2 + valor3 + valor4 + valor5 );
 			
 //			String[] valores = linha.split(",");
